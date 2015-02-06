@@ -1,5 +1,6 @@
 require 'compass/import-once/activate'
 # Require any additional compass plugins here.
+require 'singularitygs'
 
 # Set this to the root of your project when deployed:
 http_path = "/"
@@ -18,3 +19,5 @@ javascripts_dir = "js"
 # line_comments = false
 
 preferred_syntax = :scss
+
+
